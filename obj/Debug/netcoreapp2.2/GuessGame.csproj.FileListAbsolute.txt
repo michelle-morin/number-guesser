@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/GuessGame/obj/Debug/netcoreapp2.2/GuessGame.csprojAssemblyReference.cache
+/Users/Guest/Desktop/GuessGame/obj/Debug/netcoreapp2.2/GuessGame.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/GuessGame/obj/Debug/netcoreapp2.2/GuessGame.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/GuessGame/obj/Debug/netcoreapp2.2/GuessGame.AssemblyInfo.cs
+/Users/Guest/Desktop/GuessGame/bin/Debug/netcoreapp2.2/GuessGame.deps.json
+/Users/Guest/Desktop/GuessGame/bin/Debug/netcoreapp2.2/GuessGame.runtimeconfig.json
+/Users/Guest/Desktop/GuessGame/bin/Debug/netcoreapp2.2/GuessGame.runtimeconfig.dev.json
+/Users/Guest/Desktop/GuessGame/bin/Debug/netcoreapp2.2/GuessGame.dll
+/Users/Guest/Desktop/GuessGame/bin/Debug/netcoreapp2.2/GuessGame.pdb
+/Users/Guest/Desktop/GuessGame/obj/Debug/netcoreapp2.2/GuessGame.dll
+/Users/Guest/Desktop/GuessGame/obj/Debug/netcoreapp2.2/GuessGame.pdb
